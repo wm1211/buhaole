@@ -30,7 +30,8 @@
 }
 
 #pragma mark - Table view data source
-
+//edfdfdfdfdfdfdfdf
+//sdfdfdfdfdsfwetre46tyer
 - (NSInteger)numberOfSectionsInTableView:(UITableView *)tableView {
 #warning Incomplete implementation, return the number of sections
     return 0;
@@ -51,13 +52,13 @@
 }
 */
 
-/*
+
 // Override to support conditional editing of the table view.
 - (BOOL)tableView:(UITableView *)tableView canEditRowAtIndexPath:(NSIndexPath *)indexPath {
     // Return NO if you do not want the specified item to be editable.
     return YES;
 }
-*/
+
 
 /*
 // Override to support editing the table view.
